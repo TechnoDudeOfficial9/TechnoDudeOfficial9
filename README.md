@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in Web Development and Python
-- 🌱 I’m currently learning both
-- 💞️ I’m looking to collaborate on projects related to Web Development
-- 📫 How to reach me on instagram: @_ali.imran.official
+- 👀 I'm interested in being a Cyber Security Expert
+- 📫 How to reach me on instagram: @_ali.za.best
 
 <!---
 TechnoDudeOfficial9/TechnoDudeOfficial9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
